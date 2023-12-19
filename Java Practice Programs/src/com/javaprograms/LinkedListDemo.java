@@ -1,4 +1,4 @@
-package com.javaPrograms;
+package com.javaprograms;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 public class LinkedListDemo {
 
 	public static void main(String[] args) {
-		List<String> linkedList = new LinkedList();
+		List<String> linkedList = new LinkedList()<>();
 
         // Adding elements to the List
         linkedList.add("Apple");
